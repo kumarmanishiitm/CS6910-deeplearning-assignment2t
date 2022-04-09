@@ -34,4 +34,4 @@
 
 ## Part C
 1. weights for the car or person detection are present in the github.
-2.Two video ,i ihave taken from youtube.
+2.Two video i ihave taken from youtube.
