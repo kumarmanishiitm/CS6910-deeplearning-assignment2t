@@ -34,12 +34,12 @@
 
 1. The notebook is structured such that it can be ran cell by cell
 2.Tune Model default Tune:
-'''tune_defaults = {
+###tune_defaults = {
         "InceptionV3": 55,
         "InceptionResNetV2": 55,
         "ResNet50": 50,
         "Xception": 50
-  } '''
+  } ###
 we can change value accordingly.
 
 ## Part C
