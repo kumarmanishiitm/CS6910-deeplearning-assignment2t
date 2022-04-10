@@ -1,5 +1,4 @@
-Command line arguments for part A and B 
-"""
+ """
     README Part-A - Question 1 --------------------------------------------------------------------
         
         To compile the file with command line arguments write in following format in terminal :-
