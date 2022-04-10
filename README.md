@@ -33,7 +33,14 @@
 ## Part B
 
 1. The notebook is structured such that it can be ran cell by cell
-
+2.Tune Model default Tune:
+tune_defaults = {
+        "InceptionV3": 55,
+        "InceptionResNetV2": 55,
+        "ResNet50": 50,
+        "Xception": 50
+  } 
+we can change value accordingly.
 
 ## Part C
 1. weights for the car or person detection are present in the github.
